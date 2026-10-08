@@ -1,0 +1,8 @@
+*.out
+work/
+simv*
+csrc/
+xcelium.d/
+INCA_libs/
+*.log
+*.vcd
